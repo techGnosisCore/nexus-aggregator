@@ -48,7 +48,13 @@ Below is an overview of our Nexus repositories. Click the links to dive deeper i
 3. **Contribute:**  
    Each Nexus has its own contribution guidelines. We encourage you to fork the relevant repository, create a feature branch, and submit a pull request. Please review our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
-4. **Stay Updated:**  
+4. **Review Governance Documents:**  
+   To help maintain a safe and respectful community, please familiarize yourself with our governance policies:
+   - [Code of Conduct](CODE_OF_CONDUCT.md)
+   - [Reporting Guidelines](REPORTING_GUIDELINES.md)
+   - [Moderator Guidelines](MODERATOR_GUIDELINES.md)
+
+5. **Stay Updated:**  
    Keep an eye on this repository for announcements, integrations, and updates across all Nexus projects.
 
 ## Community Guidelines
